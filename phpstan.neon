@@ -1,0 +1,11 @@
+level: max
+
+paths:
+  - src
+  - bin/slack-bot
+
+excludePaths:
+  - vendor/
+
+parameters:
+  checkMissingIterableValueType: false
