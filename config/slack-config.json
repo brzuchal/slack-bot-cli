@@ -1,0 +1,1 @@
+{\n  "slack_token": "xoxb-your-bot-token",\n  "slack_signing_secret": "your-signing-secret",\n  "slack_app_id": "your-app-id",\n  "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"\n}
